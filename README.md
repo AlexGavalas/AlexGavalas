@@ -9,4 +9,4 @@
 - [NodeJS](https://nodejs.org/en/)
 - [Docker](https://www.docker.com/)
 
-🌱 I’m currently learning [PostgreSQL](https://www.postgresql.org/), [Deno](https://deno.land/) and [Sveltekit](https://kit.svelte.dev/).
+🌱 I’m currently learning [PostgreSQL](https://www.postgresql.org/), [Deno](https://deno.land/) and [Rust](https://www.rust-lang.org/).
