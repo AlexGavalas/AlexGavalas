@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex Gavalas. Trying to be a fullstack developer. Always on the lookout for new things.
+👋 Hi, I’m Alex Gavalas, a fullstack developer. Always on the lookout for new things.
 
 🔍 I can do stuff with 
     
@@ -6,7 +6,8 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
+- [Astro](https://astro.build/)
 - [NodeJS](https://nodejs.org/en/)
 - [Docker](https://www.docker.com/)
 
-🌱 I’m currently learning [PostgreSQL](https://www.postgresql.org/), [Deno](https://deno.land/) and [Rust](https://www.rust-lang.org/).
+🌱 I’m currently learning [Vue](https://vuejs.org/) and [Rust](https://www.rust-lang.org/).
