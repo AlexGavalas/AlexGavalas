@@ -10,4 +10,4 @@
 - [NodeJS](https://nodejs.org/en/)
 - [Docker](https://www.docker.com/)
 
-🌱 I’m currently learning [Vue](https://vuejs.org/) and [Rust](https://www.rust-lang.org/).
+🌱 I’m currently learning [RxDB](https://rxdb.info/).
