@@ -10,4 +10,4 @@
 - [NodeJS](https://nodejs.org/en/)
 - [Docker](https://www.docker.com/)
 
-🌱 I’m currently learning [RxDB](https://rxdb.info/).
+🌱 I’m currently learning [Livestore](https://livestore.dev/) and local first technologies in general.
